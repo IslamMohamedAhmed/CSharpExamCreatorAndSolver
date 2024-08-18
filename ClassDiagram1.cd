@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="C__Exam.Answers.Answer">
+    <Position X="3.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Answers\Answer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C__Exam.Exams.Exam">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAgAAAAAAIEAACAAAA=</HashCode>
+      <FileName>Exams\Exam.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="QuestionArr" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="C__Exam.Exams.FinalExam">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exams\FinalExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C__Exam.Exams.PracticalExam">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exams\PracticalExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C__Exam.Questions.MCQQuestion">
+    <Position X="12" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Questions\MCQQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C__Exam.Questions.Question">
+    <Position X="13.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAACAAAAAAAKCAAAAAAAAQAQAAAgAAAAAAABAA=</HashCode>
+      <FileName>Questions\Question.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="AnswerList" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="C__Exam.Questions.TrueOrFalseQuestion">
+    <Position X="15" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Questions\TrueOrFalseQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C__Exam.Subjects.Subject">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEACAAAAAQAAAAAAAAAAAAAAAAAAAACAAAgA=</HashCode>
+      <FileName>Subjects\Subject.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ex" />
+      <Property Name="SubjectExam" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="C__Exam.Validation.Validator">
+    <Position X="14.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Validation\Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C__Exam.Program">
+    <Position X="16.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAABDIAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

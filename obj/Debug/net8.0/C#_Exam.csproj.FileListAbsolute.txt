@@ -1,0 +1,42 @@
+F:\C# Projects\C#_Exam\bin\Debug\net8.0\C#_Exam.exe
+F:\C# Projects\C#_Exam\bin\Debug\net8.0\C#_Exam.deps.json
+F:\C# Projects\C#_Exam\bin\Debug\net8.0\C#_Exam.runtimeconfig.json
+F:\C# Projects\C#_Exam\bin\Debug\net8.0\C#_Exam.dll
+F:\C# Projects\C#_Exam\bin\Debug\net8.0\C#_Exam.pdb
+F:\C# Projects\C#_Exam\obj\Debug\net8.0\C#_Exam.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\C#_Exam\obj\Debug\net8.0\C#_Exam.AssemblyInfoInputs.cache
+F:\C# Projects\C#_Exam\obj\Debug\net8.0\C#_Exam.AssemblyInfo.cs
+F:\C# Projects\C#_Exam\obj\Debug\net8.0\C#_Exam.csproj.CoreCompileInputs.cache
+F:\C# Projects\C#_Exam\obj\Debug\net8.0\C#_Exam.dll
+F:\C# Projects\C#_Exam\obj\Debug\net8.0\refint\C#_Exam.dll
+F:\C# Projects\C#_Exam\obj\Debug\net8.0\C#_Exam.pdb
+F:\C# Projects\C#_Exam\obj\Debug\net8.0\C#_Exam.genruntimeconfig.cache
+F:\C# Projects\C#_Exam\obj\Debug\net8.0\ref\C#_Exam.dll
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\bin\Debug\net8.0\C#_Exam.exe
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\bin\Debug\net8.0\C#_Exam.deps.json
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\bin\Debug\net8.0\C#_Exam.runtimeconfig.json
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\bin\Debug\net8.0\C#_Exam.dll
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\bin\Debug\net8.0\C#_Exam.pdb
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\obj\Debug\net8.0\C#_Exam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\obj\Debug\net8.0\C#_Exam.AssemblyInfoInputs.cache
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\obj\Debug\net8.0\C#_Exam.AssemblyInfo.cs
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\obj\Debug\net8.0\C#_Exam.csproj.CoreCompileInputs.cache
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\obj\Debug\net8.0\C#_Exam.dll
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\obj\Debug\net8.0\refint\C#_Exam.dll
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\obj\Debug\net8.0\C#_Exam.pdb
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\obj\Debug\net8.0\C#_Exam.genruntimeconfig.cache
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam\obj\Debug\net8.0\ref\C#_Exam.dll
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\bin\Debug\net8.0\C#_Exam.exe
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\bin\Debug\net8.0\C#_Exam.deps.json
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\bin\Debug\net8.0\C#_Exam.runtimeconfig.json
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\bin\Debug\net8.0\C#_Exam.dll
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\bin\Debug\net8.0\C#_Exam.pdb
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\obj\Debug\net8.0\C#_Exam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\obj\Debug\net8.0\C#_Exam.AssemblyInfoInputs.cache
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\obj\Debug\net8.0\C#_Exam.AssemblyInfo.cs
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\obj\Debug\net8.0\C#_Exam.csproj.CoreCompileInputs.cache
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\obj\Debug\net8.0\C#_Exam.dll
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\obj\Debug\net8.0\refint\C#_Exam.dll
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\obj\Debug\net8.0\C#_Exam.pdb
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\obj\Debug\net8.0\C#_Exam.genruntimeconfig.cache
+E:\Route Course Backend ASP .NET\Exams\C# Exam\C# Exam with Class Diagram\C# Exam with Class Diagram\C#_Exam True Modification\obj\Debug\net8.0\ref\C#_Exam.dll
